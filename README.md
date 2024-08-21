@@ -1,4 +1,4 @@
-#ListCounter PlaceholderAPI Expansion
+# ListCounter PlaceholderAPI Expansion
 Use the ListCounter expansion to easily output a list of players/IPs from a Minecraft server json file, such as operators, whitelist players, banned players, banned IPs.
 
 Placeholders:
