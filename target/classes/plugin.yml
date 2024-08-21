@@ -1,0 +1,3 @@
+name: ListCounter
+version: '1.0.1'
+main: dev.tijohnny.listcounter.ListCounter
